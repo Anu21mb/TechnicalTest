@@ -1,0 +1,6 @@
+E:\TechnicalTest\obj\Debug\net6.0\TechnicalTest.csproj.AssemblyReference.cache
+E:\TechnicalTest\obj\Debug\net6.0\TechnicalTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnicalTest\obj\Debug\net6.0\TechnicalTest.AssemblyInfoInputs.cache
+E:\TechnicalTest\obj\Debug\net6.0\TechnicalTest.AssemblyInfo.cs
+E:\TechnicalTest\obj\Debug\net6.0\TechnicalTest.csproj.CoreCompileInputs.cache
+E:\TechnicalTest\obj\Debug\net6.0\TechnicalTest.MvcApplicationPartsAssemblyInfo.cache

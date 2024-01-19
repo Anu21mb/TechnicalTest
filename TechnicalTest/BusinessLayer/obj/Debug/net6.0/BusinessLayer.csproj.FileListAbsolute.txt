@@ -1,0 +1,5 @@
+E:\TechnicalTest\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\TechnicalTest\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnicalTest\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\TechnicalTest\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+E:\TechnicalTest\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache

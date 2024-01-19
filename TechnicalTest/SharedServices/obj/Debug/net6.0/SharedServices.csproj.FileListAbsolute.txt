@@ -1,0 +1,12 @@
+E:\TechnicalTest\SharedServices\bin\Debug\net6.0\SharedServices.deps.json
+E:\TechnicalTest\SharedServices\bin\Debug\net6.0\SharedServices.dll
+E:\TechnicalTest\SharedServices\bin\Debug\net6.0\SharedServices.pdb
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\SharedServices.csproj.AssemblyReference.cache
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\SharedServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\SharedServices.AssemblyInfoInputs.cache
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\SharedServices.AssemblyInfo.cs
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\SharedServices.csproj.CoreCompileInputs.cache
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\SharedServices.dll
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\refint\SharedServices.dll
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\SharedServices.pdb
+E:\TechnicalTest\SharedServices\obj\Debug\net6.0\ref\SharedServices.dll
